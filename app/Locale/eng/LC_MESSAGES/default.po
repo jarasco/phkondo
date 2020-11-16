@@ -1906,3 +1906,6 @@ msgstr ""
 
 msgid "Requires a valid condo and active fiscal year."
 msgstr ""
+
+msgid "through"
+msgstr ""

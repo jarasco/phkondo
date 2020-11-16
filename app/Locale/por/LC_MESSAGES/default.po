@@ -1918,3 +1918,6 @@ msgstr "O pedido de suporte foi registado"
 
 msgid "Support can not be deleted"
 msgstr "Não foi possivel apagar pedido de suporte"
+
+msgid "through"
+msgstr "a"

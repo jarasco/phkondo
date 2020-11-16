@@ -1906,3 +1906,6 @@ msgstr "Supporto cancellato"
 
 msgid "Requires a valid condo and active fiscal year."
 msgstr "Richiede un condominio valido e un anno fiscale attivo."
+
+msgid "through"
+msgstr "a"

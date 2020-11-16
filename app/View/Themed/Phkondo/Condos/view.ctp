@@ -114,7 +114,7 @@ $administrators = implode(", ", $administrators);
                         <td>
                             <?php
                             if ($has_fiscal_year) {
-                                echo h($condo['FiscalYear'][0]['title'] . ' ( ' . h($condo['FiscalYear'][0]['open_date']) . ' a ' . h($condo['FiscalYear'][0]['close_date']) . ' ) ');
+                                echo h($condo['FiscalYear'][0]['title'] . ' ( ' . h($condo['FiscalYear'][0]['open_date']) . ' ' . __('through') . ' ' . h($condo['FiscalYear'][0]['close_date']) . ' ) ');
                             }
                             ?>
                             &nbsp;
